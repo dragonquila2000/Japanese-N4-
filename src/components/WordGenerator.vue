@@ -1,18 +1,18 @@
 <template>
-<div>
+<div style="text-align: center">
     <div v-if="currentWord">
-        <p v-if="currentWord.kanji"><strong>{{ currentWord.kanji }}</strong></p>
-        <p><strong>{{ currentWord.japanese }}</strong></p>
-        <input v-model="romanjiInput" placeholder="Nhập Romanji" required style="margin-bottom: 10px" />
+        <p style="font-size: 25px" v-if="currentWord.kanji"><strong>{{ currentWord.kanji }}</strong></p>
+        <p style="font-size: 25px"><strong>{{ currentWord.japanese }}</strong></p>
+        <input v-model="romanjiInput" placeholder="Nhập Romanji" required class="input" size="50" />
         <br />
-        <input v-model="meaning" placeholder="Nhập nghĩa" required style="margin-bottom: 10px" />
+        <input v-model="meaning" placeholder="Nhập nghĩa" required class="input" size="50" />
         <br />
-        <button @click="checkInput">Tiếp theo</button>
+        <button @click="checkInput" class="button">Tiếp theo</button>
     </div>
     <div v-else>
-        <button @click="startExercise">Bắt đầu</button>
+        <button @click="startExercise" class="button">Bắt đầu</button>
     </div>
-    <div style="color: red">{{ error }}</div>
+    <div style="color: red; font-size: 20px">{{ error }}</div>
 </div>
 </template>
 
@@ -67,3 +67,16 @@ export default {
     },
 };
 </script>
+
+<style scoped>
+.input {
+    margin-bottom: 10px;
+    height: 30px;
+    font-size: 20px
+}
+
+.button {
+    width: 200px;
+    height: 50px
+}
+</style>

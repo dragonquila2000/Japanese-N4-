@@ -1,6 +1,6 @@
 <template>
 <div id="app">
-    <h1>Japanese Learning App</h1>
+    <h1 style="text-align:center">Japanese Learning App</h1>
     <WordGenerator />
 </div>
 </template>
