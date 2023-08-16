@@ -3,9 +3,9 @@
     <div v-if="currentWord">
         <p style="font-size: 25px" v-if="currentWord.kanji"><strong>{{ currentWord.kanji }}</strong></p>
         <p style="font-size: 25px"><strong>{{ currentWord.japanese }}</strong></p>
-        <input v-model="romanjiInput" placeholder="Nhập Romanji" required class="input" size="50" />
+        <input @keyup.enter="focusOnVietnameseInput" v-model="romanjiInput" placeholder="Nhập Romanji" required class="input" size="50" ref="romanjiInput" />
         <br />
-        <input v-model="meaning" placeholder="Nhập nghĩa" required class="input" size="50" />
+        <input @keyup.enter="checkInput" v-model="meaning" placeholder="Nhập nghĩa" required class="input" size="50" ref="vietnameseInput" />
         <br />
         <button @click="checkInput" class="button">Tiếp theo</button>
     </div>
@@ -34,11 +34,19 @@ export default {
         this.words = words_26;
     },
     methods: {
+        focusOnVietnameseInput() {
+            if (this.$refs.vietnameseInput) {
+                this.$refs.vietnameseInput.focus();
+            }
+        },
         startExercise() {
             this.usedIndices = [];
             this.nextWord();
         },
         nextWord() {
+            if (this.$refs.romanjiInput) {
+                this.$refs.romanjiInput.focus();
+            }
             if (this.usedIndices.length === this.words.length) {
                 alert('Xuất sắc! Bạn đã biết thêm nhiều từ tiếng Nhật mới');
                 this.usedIndices = [];
