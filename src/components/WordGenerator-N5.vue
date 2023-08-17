@@ -17,7 +17,7 @@
 </template>
 
 <script>
-import N5_1 from '@/N5_1.json';
+import N5_1 from '../Data/N5/N5_1.json'
 export default {
     data() {
         return {
