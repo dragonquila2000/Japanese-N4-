@@ -5,7 +5,7 @@
         <p style="font-size: 25px"><strong>{{ currentWord.japanese }}</strong></p>
         <input @keyup.enter="focusOnVietnameseInput" v-model="romanjiInput" placeholder="Nhập Romanji" required class="input" size="50" ref="romanjiInput" />
         <br />
-        <input @keyup.enter="checkInput" @keyup.delete="backSpace" v-model="meaning" placeholder="Nhập nghĩa" required class="input" size="50" ref="vietnameseInput" />
+        <input @keyup.enter="checkInput" v-model="meaning" placeholder="Nhập nghĩa" required class="input" size="50" ref="vietnameseInput" />
         <br />
         <button @click="checkInput" class="button">Tiếp theo</button>
     </div>
@@ -17,7 +17,7 @@
 </template>
 
 <script>
-import words_26 from '../Data/N4/26.json';
+// import words_26 from '../Data/N4/26.json';
 import words_27 from '../Data/N4/27.json';
 export default {
     data() {
@@ -32,8 +32,8 @@ export default {
         };
     },
     created() {
-        // this.words = words_26 //Ktra từ vựng 1 bài
-        this.words = this.words.concat(words_26, words_27) //Ktra từ vựng nhiều bài
+        this.words = words_27 //Ktra từ vựng 1 bài
+        // this.words = this.words.concat(words_26, words_27) //Ktra từ vựng nhiều bài
     },
     methods: {
         focusOnVietnameseInput() {
@@ -74,11 +74,6 @@ export default {
                 this.error = 'Sai'
             }
         },
-        backSpace() {
-            if (!this.meaning) {
-                this.$refs.romanjiInput.focus();
-            }
-        }
     },
 };
 </script>
