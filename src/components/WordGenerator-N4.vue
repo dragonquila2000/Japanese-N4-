@@ -3,9 +3,9 @@
     <div v-if="currentWord">
         <p style="font-size: 25px" v-if="currentWord.kanji"><strong>{{ currentWord.kanji }}</strong></p>
         <p style="font-size: 25px"><strong>{{ currentWord.japanese }}</strong></p>
-        <input @keyup.enter="focusOnVietnameseInput" v-model="romanjiInput" placeholder="Nhập Romanji" required class="input" size="50" ref="romanjiInput" />
+        <input @keyup.enter="focusOnVietnameseInput" v-model="romanjiInput" placeholder="Nhập Romanji" required class="input" size="50" ref="romanjiInput" trim />
         <br />
-        <input @keyup.enter="checkInput" v-model="meaning" placeholder="Nhập nghĩa" required class="input" size="50" ref="vietnameseInput" />
+        <input @keyup.enter="checkInput" v-model="meaning" placeholder="Nhập nghĩa" required class="input" size="50" ref="vietnameseInput" trim />
         <br />
         <button @click="checkInput" class="button">Tiếp theo</button>
     </div>
