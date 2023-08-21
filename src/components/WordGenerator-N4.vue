@@ -1,6 +1,7 @@
 <template>
 <div style="text-align: center">
     <div v-if="currentWord">
+        <p style="font-size: 25px"><strong>Số từ còn lại: {{ remainWord }} </strong></p>
         <p style="font-size: 25px" v-if="currentWord.kanji"><strong>{{ currentWord.kanji }}</strong></p>
         <p style="font-size: 25px"><strong>{{ currentWord.japanese }}</strong></p>
         <input @keyup.enter="focusOnVietnameseInput" v-model="romanjiInput" placeholder="Nhập Romanji" required class="input" size="50" ref="romanjiInput" trim />
@@ -17,7 +18,7 @@
 </template>
 
 <script>
-// import words_26 from '../Data/N4/26.json';
+import words_26 from '../Data/N4/26.json';
 import words_27 from '../Data/N4/27.json';
 export default {
     data() {
@@ -29,11 +30,12 @@ export default {
             romanjiInput: '',
             meaning: '',
             error: '',
+            remainWord: null,
         };
     },
     created() {
-        this.words = words_27 //Ktra từ vựng 1 bài
-        // this.words = this.words.concat(words_26, words_27) //Ktra từ vựng nhiều bài
+        // this.words = words_27 //Ktra từ vựng 1 bài
+        this.words = this.words.concat(words_26, words_27) //Ktra từ vựng nhiều bài
     },
     methods: {
         focusOnVietnameseInput() {
@@ -44,6 +46,7 @@ export default {
         startExercise() {
             this.usedIndices = [];
             this.nextWord();
+            this.remainWord = this.words.length
         },
         nextWord() {
             if (this.$refs.romanjiInput) {
@@ -68,6 +71,7 @@ export default {
         },
         checkInput() {
             if (this.romanjiInput === this.currentWord.romanji && this.meaning === this.currentWord.vietnamese) {
+                this.remainWord = this.remainWord - 1
                 this.nextWord();
                 this.error = ''
             } else {
