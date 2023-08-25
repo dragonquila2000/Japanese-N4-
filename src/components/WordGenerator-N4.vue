@@ -7,8 +7,10 @@
         <input @keyup.enter="focusOnVietnameseInput" v-model="romanjiInput" placeholder="Nhập Romanji" required class="input" size="50" ref="romanjiInput" trim />
         <br />
         <input @keyup.enter="checkInput" v-model="meaning" placeholder="Nhập nghĩa" required class="input" size="50" ref="vietnameseInput" trim />
+        <p>{{ hint }}</p>
         <br />
         <button @click="checkInput" class="button">Tiếp theo</button>
+        <button @click="giveHint" class="button" style="margin-left: 5px">Gợi ý</button>
     </div>
     <div v-else>
         <button @click="startExercise" class="button">Bắt đầu</button>
@@ -18,8 +20,11 @@
 </template>
 
 <script>
-import words_26 from '../Data/N4/26.json';
-import words_27 from '../Data/N4/27.json';
+
+// import words_26 from '../Data/N4/26.json';
+// import words_27 from '../Data/N4/27.json';
+import words_28 from '../Data/N4/28.json';
+
 export default {
     data() {
         return {
@@ -31,11 +36,12 @@ export default {
             meaning: '',
             error: '',
             remainWord: null,
+            hint: '',
         };
     },
     created() {
-        // this.words = words_27 //Ktra từ vựng 1 bài
-        this.words = this.words.concat(words_26, words_27) //Ktra từ vựng nhiều bài
+        this.words = words_28 //Ktra từ vựng 1 bài
+        // this.words = this.words.concat(words_26, words_27) //Ktra từ vựng nhiều bài
     },
     methods: {
         focusOnVietnameseInput() {
@@ -74,10 +80,14 @@ export default {
                 this.remainWord = this.remainWord - 1
                 this.nextWord();
                 this.error = ''
+                this.hint = ''
             } else {
                 this.error = 'Sai'
             }
         },
+        giveHint() {
+            this.hint = this.currentWord.vietnamese
+        }
     },
 };
 </script>

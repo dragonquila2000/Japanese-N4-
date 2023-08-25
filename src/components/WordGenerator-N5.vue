@@ -1,13 +1,16 @@
 <template>
 <div style="text-align: center">
     <div v-if="currentWord">
+        <p style="font-size: 25px"><strong>Số từ còn lại: {{ remainWord }} </strong></p>
         <p style="font-size: 25px" v-if="currentWord.kanji"><strong>{{ currentWord.kanji }}</strong></p>
         <p style="font-size: 25px"><strong>{{ currentWord.japanese }}</strong></p>
         <input @keyup.enter="focusOnVietnameseInput" v-model="romanjiInput" placeholder="Nhập Romanji" required class="input" size="50" ref="romanjiInput" />
         <br />
         <input @keyup.enter="checkInput" v-model="meaning" placeholder="Nhập nghĩa" required class="input" size="50" ref="vietnameseInput" />
+        <p>{{ hint }}</p>
         <br />
         <button @click="checkInput" class="button">Tiếp theo</button>
+        <button @click="giveHint" class="button" style="margin-left: 5px">Gợi ý</button>
     </div>
     <div v-else>
         <button @click="startExercise" class="button">Bắt đầu</button>
@@ -28,6 +31,8 @@ export default {
             romanjiInput: '',
             meaning: '',
             error: '',
+            remainWord: null,
+            hint: '',
         };
     },
     created() {
@@ -42,6 +47,7 @@ export default {
         startExercise() {
             this.usedIndices = [];
             this.nextWord();
+            this.remainWord = this.words.length
         },
         nextWord() {
             if (this.$refs.romanjiInput) {
@@ -66,12 +72,17 @@ export default {
         },
         checkInput() {
             if (this.romanjiInput === this.currentWord.romanji && this.meaning === this.currentWord.vietnamese) {
+                this.remainWord = this.remainWord - 1
                 this.nextWord();
                 this.error = ''
+                this.hint = ''
             } else {
                 this.error = 'Sai'
             }
         },
+        giveHint() {
+            this.hint = this.currentWord.vietnamese
+        }
     },
 };
 </script>
