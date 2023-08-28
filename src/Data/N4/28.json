@@ -25,7 +25,7 @@
     { "kanji": "", "japanese": "ボーナス", "romanji": "boonasu", "vietnamese": "tiền thưởng" },
     { "kanji": "番組", "japanese": "ばんぐみ", "romanji": "bangumi", "vietnamese": "chương trình" },
     { "kanji": "", "japanese": "ドラマ", "romanji": "dorama", "vietnamese": "phim truyền hình" },
-    { "kanji": "歌手", "japanese": "かしゅ", "romanji": "kashuu", "vietnamese": "ca sĩ" },
+    { "kanji": "歌手", "japanese": "かしゅ", "romanji": "kashu", "vietnamese": "ca sĩ" },
     { "kanji": "小説", "japanese": "しょうせつ", "romanji": "shousetsu", "vietnamese": "tiểu thuyết" },
     { "kanji": "小説家", "japanese": "しょうせつか", "romanji": "shousetsuka", "vietnamese": "tiểu thuyết gia" },
     { "kanji": "息子", "japanese": "むすこ", "romanji": "musuko", "vietnamese": "con trai của mình" },
@@ -46,5 +46,5 @@
     { "kanji": "体育館", "japanese": "たいいくかん", "romanji": "taiikukan", "vietnamese": "nhà thi đấu thể thao" },
     { "kanji": "無料", "japanese": "むりょう", "romanji": "muryou", "vietnamese": "miễn phí" },
     { "kanji": "誘います", "japanese": "さそいます", "romanji": "sasoimasu", "vietnamese": "mời" },
-    { "kanji": "", "japanese": "イベン", "romanji": "ibento", "vietnamese": "sự kiện" }
+    { "kanji": "", "japanese": "イベンと", "romanji": "ibento", "vietnamese": "sự kiện" }
 ]
