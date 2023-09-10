@@ -27,7 +27,8 @@
 // import words_27 from '../Data/N4/27.json';
 // import words_28 from '../Data/N4/28.json';
 // import words_29 from '../Data/N4/29.json';
-import words_30 from '../Data/N4/30.json'
+// import words_30 from '../Data/N4/30.json';
+import words_31 from '../Data/N4/31.json';
 
 export default {
     data() {
@@ -44,7 +45,7 @@ export default {
         };
     },
     created() {
-        this.words = words_30 //Ktra từ vựng 1 bài
+        this.words = words_31 //Ktra từ vựng 1 bài
         // this.words = this.words.concat(words_28, words_29) //Ktra từ vựng nhiều bài
     },
     methods: {
