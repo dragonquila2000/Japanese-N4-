@@ -23,7 +23,7 @@
     { "kanji": "姉", "japanese": "あね", "romanji": "ane", "vietnamese": "chị gái của mình" },
     { "kanji": "", "japanese": "アパート", "romanji": "apaato", "vietnamese": "căn hộ" },
     { "kanji": "雨", "japanese": "あめ", "romanji": "ame", "vietnamese": "mưa" },
-    { "kanji": "飴", "japanese": "あめ", "romanji": "ame", "vietnamese": "kẹo ngậm" },
+    { "kanji": "飴", "japanese": "あめ", "romanji": "ame", "vietnamese": "kẹo" },
     { "kanji": "家", "japanese": "いえ", "romanji": "ie", "vietnamese": "nhà" },
     { "kanji": "池", "japanese": "いけ", "romanji": "ike", "vietnamese": "ao" },
     { "kanji": "医者", "japanese": "いしゃ", "romanji": "isha", "vietnamese": "bác sĩ" },
@@ -45,7 +45,7 @@
     { "kanji": "意味", "japanese": "いみ", "romanji": "imi", "vietnamese": "ý nghĩa" },
     { "kanji": "妹", "japanese": "いもうと", "romanji": "imouto", "vietnamese": "em gái của mình" },
     { "kanji": "入口", "japanese": "いりぐち", "romanji": "iriguchi", "vietnamese": "lối vào" },
-    { "kanji": "色", "japanese": "いろ", "romanji": "iru", "vietnamese": "màu" },
+    { "kanji": "色", "japanese": "いろ", "romanji": "iro", "vietnamese": "màu" },
     { "kanji": "上", "japanese": "うえ", "romanji": "ue", "vietnamese": "trên" },
     { "kanji": "後ろ", "japanese": "うしろ", "romanji": "ushiro", "vietnamese": "đằng sau" },
     { "kanji": "歌", "japanese": "うた", "romanji": "uta", "vietnamese": "bài hát" }

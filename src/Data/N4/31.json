@@ -26,9 +26,6 @@
     { "kanji": "村", "japanese": "むら", "romanji": "mura", "vietnamese": "thôn" },
     { "kanji": "卒業します", "japanese": "そつぎょうします", "romanji": "sotsugyoushimasu", "vietnamese": "tốt nghiệp" },
     { "kanji": "映画館", "japanese": "えいがかん", "romanji": "eigakan", "vietnamese": "rạp chiếu phim" },
-    { "kanji": "嫌", "japanese": "iya", "romanji": "iya", "vietnamese": "ghét" },
     { "kanji": "閉じます", "japanese": "とじます", "romanji": "tojimasu", "vietnamese": "đóng, nhắm" },
-    { "kanji": "都会", "japanese": "とかい", "romanji": "tokai", "vietnamese": "thành phố lớn" },
-    { "kanji": "子供たち", "japanese": "こどもたち", "romanji": "kodomotachi", "vietnamese": "bọn trẻ" },
-    { "kanji": "自由に", "japanese": "じゆうに", "romanji": "jiyuuni", "vietnamese": "tự do" }
+    { "kanji": "都会", "japanese": "とかい", "romanji": "tokai", "vietnamese": "thành phố lớn" }
 ]
