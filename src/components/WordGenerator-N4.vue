@@ -23,13 +23,14 @@
 
 <script>
 
-// import words_26 from '../Data/N4/26.json';
-// import words_27 from '../Data/N4/27.json';
-// import words_28 from '../Data/N4/28.json';
-// import words_29 from '../Data/N4/29.json';
-// import words_30 from '../Data/N4/30.json';
+import words_26 from '../Data/N4/26.json';
+import words_27 from '../Data/N4/27.json';
+import words_28 from '../Data/N4/28.json';
+import words_29 from '../Data/N4/29.json';
+import words_30 from '../Data/N4/30.json';
 // import words_31 from '../Data/N4/31.json';
- import words_32 from '../Data/N4/32.json';
+// import words_32 from '../Data/N4/32.json';
+// import words_33 from '../Data/N4/33.json'
 
 export default {
     data() {
@@ -43,11 +44,12 @@ export default {
             error: '',
             remainWord: null,
             hint: '',
+            
         };
     },
     created() {
-        this.words = words_32 //Ktra từ vựng 1 bài
-        // this.words = this.words.concat(words_28, words_29) //Ktra từ vựng nhiều bài
+        // this.words = words_33 //Ktra từ vựng 1 bài
+        this.words = this.words.concat(words_26, words_27, words_28, words_29, words_30) //Ktra từ vựng nhiều bài
     },
     methods: {
         focusOnVietnameseInput() {
