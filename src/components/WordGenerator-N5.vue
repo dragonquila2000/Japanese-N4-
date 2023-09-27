@@ -20,7 +20,7 @@
 </template>
 
 <script>
-import N5_1 from '../Data/N5/N5_1.json'
+// import N5_1 from '../Data/N5/N5_1.json'
 export default {
     data() {
         return {
@@ -35,9 +35,9 @@ export default {
             hint: '',
         };
     },
-    created() {
-        this.words = N5_1;
-    },
+    // created() {
+    //     this.words = N5_1;
+    // },
     methods: {
         focusOnVietnameseInput() {
             if (this.$refs.vietnameseInput) {

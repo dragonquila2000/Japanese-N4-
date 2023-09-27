@@ -23,14 +23,17 @@
 
 <script>
 
-import words_26 from '../Data/N4/26.json';
-import words_27 from '../Data/N4/27.json';
-import words_28 from '../Data/N4/28.json';
-import words_29 from '../Data/N4/29.json';
-import words_30 from '../Data/N4/30.json';
+// import words_26 from '../Data/N4/26.json';
+// import words_27 from '../Data/N4/27.json';
+// import words_28 from '../Data/N4/28.json';
+// import words_29 from '../Data/N4/29.json';
+// import words_30 from '../Data/N4/30.json';
 // import words_31 from '../Data/N4/31.json';
 // import words_32 from '../Data/N4/32.json';
-// import words_33 from '../Data/N4/33.json'
+// import words_33 from '../Data/N4/33.json';
+// import words_34 from '../Data/N4/34.json';
+// import words_35 from '../Data/N4/35.json';
+ import words_36 from '../Data/N4/36.json';
 
 export default {
     data() {
@@ -48,8 +51,8 @@ export default {
         };
     },
     created() {
-        // this.words = words_33 //Ktra từ vựng 1 bài
-        this.words = this.words.concat(words_26, words_27, words_28, words_29, words_30) //Ktra từ vựng nhiều bài
+        this.words = words_36 //Ktra từ vựng 1 bài
+        // this.words = this.words.concat(words_26, words_27, words_28, words_29, words_30) //Ktra từ vựng nhiều bài
     },
     methods: {
         focusOnVietnameseInput() {
