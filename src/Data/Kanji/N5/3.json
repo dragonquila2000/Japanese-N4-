@@ -1,12 +1,12 @@
 [
-    { "kanji": "百円", "chinese": "bách", "romanji": "hyakuen", "vietnamese": "100 yên" },
-    { "kanji": "三百", "chinese": "bách", "romanji": "sambyaku", "vietnamese": "300" },
-    { "kanji": "六百", "chinese": "bách", "romanji": "roppyaku", "vietnamese": "600" },
-    { "kanji": "千円", "chinese": "thiên", "romanji": "senen", "vietnamese": "1000 yên" },
-    { "kanji": "三千", "chinese": "thiên", "romanji": "sanzen", "vietnamese": "3000" },
-    { "kanji": "一万円", "chinese": "vạn", "romanji": "ichimanen", "vietnamese": "10000 yên" },
-    { "kanji": "百万", "chinese": "vạn", "romanji": "hyakuen", "vietnamese": "100000 yên" },
-    { "kanji": "円", "chinese": "viên", "romanji": "en", "vietnamese": "yên" },
-    { "kanji": "何", "chinese": "hà", "romanji": "nani", "vietnamese": "cái gì" },
-    { "kanji": "何時", "chinese": "hà", "romanji": "nanji", "vietnamese": "mấy giờ" }
+    { "kanji": "百円", "chinese": "百: bách", "romanji": "hyakuen", "vietnamese": "100 yên" },
+    { "kanji": "三百", "chinese": "百: bách", "romanji": "sambyaku", "vietnamese": "300" },
+    { "kanji": "六百", "chinese": "百: bách", "romanji": "roppyaku", "vietnamese": "600" },
+    { "kanji": "千円", "chinese": "千: thiên", "romanji": "senen", "vietnamese": "1000 yên" },
+    { "kanji": "三千", "chinese": "千: thiên", "romanji": "sanzen", "vietnamese": "3000" },
+    { "kanji": "一万円", "chinese": "万: vạn", "romanji": "ichimanen", "vietnamese": "10000 yên" },
+    { "kanji": "百万", "chinese": "万: vạn", "romanji": "hyakuen", "vietnamese": "100000 yên" },
+    { "kanji": "円", "chinese": "円: viên", "romanji": "en", "vietnamese": "yên" },
+    { "kanji": "何", "chinese": "何: hà", "romanji": "nani", "vietnamese": "cái gì" },
+    { "kanji": "何時", "chinese": "何: hà", "romanji": "nanji", "vietnamese": "mấy giờ" }
 ]
