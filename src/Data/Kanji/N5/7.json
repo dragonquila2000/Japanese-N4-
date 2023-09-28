@@ -1,0 +1,16 @@
+[
+    { "kanji": "学生", "chinese": "học", "romanji": "gakusei", "vietnamese": "học sinh" },
+    { "kanji": "学校", "chinese": "học", "romanji": "gakkou", "vietnamese": "trường học" },
+    { "kanji": "学生", "chinese": "sinh", "romanji": "gakusei", "vietnamese": "học sinh" },
+    { "kanji": "先生", "chinese": "sinh", "romanji": "sensei", "vietnamese": "giáo viên" },
+    { "kanji": "一年生", "chinese": "sinh", "romanji": "ichinensei", "vietnamese": "năm nhất" },
+    { "kanji": "生まれます", "chinese": "sinh", "romanji": "umaremasu", "vietnamese": "sinh ra" },
+    { "kanji": "先生", "chinese": "tiên", "romanji": "sensei", "vietnamese": "giáo viên" },
+    { "kanji": "先月", "chinese": "tiên", "romanji": "sengetsu", "vietnamese": "tháng trước" },
+    { "kanji": "先に", "chinese": "tiên", "romanji": "sakini", "vietnamese": "đi trước" },
+    { "kanji": "友人", "chinese": "hữu", "romanji": "yuujin", "vietnamese": "bạn thân" },
+    { "kanji": "友達", "chinese": "hữu", "romanji": "tomodachi", "vietnamese": "bạn bè" },
+    { "kanji": "名刺", "chinese": "danh", "romanji": "meishi", "vietnamese": "danh thiếp" },
+    { "kanji": "有名", "chinese": "danh", "romanji": "yuumei", "vietnamese": "nổi tiếng" },
+    { "kanji": "名前", "chinese": "danh", "romanji": "namae", "vietnamese": "tên" }
+]

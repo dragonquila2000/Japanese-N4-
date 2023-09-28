@@ -1,0 +1,21 @@
+[
+    { "kanji": "日曜日", "chinese": "nhật", "romanji": "nichiyoubi", "vietnamese": "chủ nhật" },
+    { "kanji": "毎日", "chinese": "nhật", "romanji": "mainichi", "vietnamese": "hằng ngày" },
+    { "kanji": "日記", "chinese": "nhật", "romanji": "nikki", "vietnamese": "nhật ký" },
+    { "kanji": "誕生日", "chinese": "nhật", "romanji": "tanyoubi", "vietnamese": "sinh nhật" },
+    { "kanji": "五日", "chinese": "nhật", "romanji": "itsuka", "vietnamese": "mùng 5" },
+    { "kanji": "母の日", "chinese": "nhật", "romanji": "hahanobi", "vietnamese": "ngày của mẹ" },
+    { "kanji": "お正月", "chinese": "nguyệt", "romanji": "oshougatsu", "vietnamese": "năm mới" },
+    { "kanji": "月曜日", "chinese": "nguyệt", "romanji": "getsuyoubi", "vietnamese": "thứ 2" },
+    { "kanji": "月", "chinese": "nguyệt", "romanji": "tsuki", "vietnamese": "mặt trăng" },
+    { "kanji": "毎月", "chinese": "nguyệt", "romanji": "maitsuki", "vietnamese": "hằng tháng" },
+    { "kanji": "火曜日", "chinese": "hỏa", "romanji": "kayoubi", "vietnamese": "thứ 3" },
+    { "kanji": "火", "chinese": "hỏa", "romanji": "hi", "vietnamese": "lửa" },
+    { "kanji": "花火", "chinese": "hỏa", "romanji": "hanabi", "vietnamese": "pháo hoa" },
+    { "kanji": "水曜日", "chinese": "thủy", "romanji": "suiyoubi", "vietnamese": "thứ 4" },
+    { "kanji": "水道", "chinese": "thủy", "romanji": "suidou", "vietnamese": "nước máy" },
+    { "kanji": "水", "chinese": "thủy", "romanji": "mizu", "vietnamese": "nước" },
+    { "kanji": "水着", "chinese": "thủy", "romanji": "mizugi", "vietnamese": "đồ bơi" },
+    { "kanji": "木曜日", "chinese": "mộc", "romanji": "mokuyoubi", "vietnamese": "thứ 5" },
+    { "kanji": "木", "chinese": "mộc", "romanji": "ki", "vietnamese": "cây" }
+]

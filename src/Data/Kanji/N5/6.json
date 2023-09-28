@@ -1,0 +1,19 @@
+[
+    { "kanji": "何時", "chinese": "thời", "romanji": "nanji", "vietnamese": "mấy giờ" },
+    { "kanji": "～時", "chinese": "thời", "romanji": "~ji", "vietnamese": "~giờ" },
+    { "kanji": "子供の時", "chinese": "thời", "romanji": "kodomonotoki", "vietnamese": "thời trẻ con" },
+    { "kanji": "時々", "chinese": "thời", "romanji": "tokidoki", "vietnamese": "đôi khi" },
+    { "kanji": "～分", "chinese": "phân", "romanji": "fun/bun", "vietnamese": "phút" },
+    { "kanji": "四分の一", "chinese": "phân", "romanji": "yonbunnoichi", "vietnamese": "1 phần 4" },
+    { "kanji": "分かります", "chinese": "phân", "romanji": "wakarimasu", "vietnamese": "hiểu" },
+    { "kanji": "分けます", "chinese": "phân", "romanji": "wakemasu", "vietnamese": "chia ra" },
+    { "kanji": "半分", "chinese": "bán", "romanji": "hanbun", "vietnamese": "1 nửa" },
+    { "kanji": "一時半", "chinese": "bán", "romanji": "ichijihan", "vietnamese": "1 rưỡi" },
+    { "kanji": "半年前", "chinese": "bán", "romanji": "hantoshimae", "vietnamese": "nửa năm trước" },
+    { "kanji": "時間", "chinese": "gian", "romanji": "jikan", "vietnamese": "thời gian" },
+    { "kanji": "間", "chinese": "gian", "romanji": "aida", "vietnamese": "giữa" },
+    { "kanji": "昼間", "chinese": "gian", "romanji": "hiruma", "vietnamese": "ban ngày" },
+    { "kanji": "今週", "chinese": "tuần", "romanji": "konshuu", "vietnamese": "tuần này" },
+    { "kanji": "週末", "chinese": "tuần", "romanji": "shuumatsu", "vietnamese": "cuối tuần" },
+    { "kanji": "一週間", "chinese": "tuần", "romanji": "ichishuukan", "vietnamese": "khoảng 1 tuần" }
+]

@@ -1,0 +1,18 @@
+[
+    { "kanji": "金曜日", "chinese": "kim", "romanji": "kinyoubi", "vietnamese": "thứ 6" },
+    { "kanji": "お金", "chinese": "kim", "romanji": "okane", "vietnamese": "tiền" },
+    { "kanji": "お金持ち", "chinese": "kim", "romanji": "okanemochi", "vietnamese": "giàu có" },
+    { "kanji": "土曜日", "chinese": "thổ", "romanji": "doyoubi", "vietnamese": "thứ 7" },
+    { "kanji": "土", "chinese": "thổ", "romanji": "tsuchi", "vietnamese": "đất" },
+    { "kanji": "今月", "chinese": "kim", "romanji": "kongetsu", "vietnamese": "tháng này" },
+    { "kanji": "今週", "chinese": "kim", "romanji": "konshuu", "vietnamese": "tuần này" },
+    { "kanji": "今晩", "chinese": "kim", "romanji": "konban", "vietnamese": "tối nay" },
+    { "kanji": "今", "chinese": "kim", "romanji": "ima", "vietnamese": "bây giờ" },
+    { "kanji": "今日", "chinese": "kim", "romanji": "kyou", "vietnamese": "hôm nay" },
+    { "kanji": "去年", "chinese": "niên", "romanji": "kyonen", "vietnamese": "năm ngoái" },
+    { "kanji": "生年月日", "chinese": "niên", "romanji": "seinengappi", "vietnamese": "ngày tháng năm sinh" },
+    { "kanji": "年", "chinese": "niên", "romanji": "toshi", "vietnamese": "năm" },
+    { "kanji": "今年", "chinese": "niên", "romanji": "kotoshi", "vietnamese": "năm nay" },
+    { "kanji": "夕方", "chinese": "tịch", "romanji": "yuugata", "vietnamese": "hoàng hôn" },
+    { "kanji": "夕食", "chinese": "tịch", "romanji": "yuushoku", "vietnamese": "bữa tối" }
+]
