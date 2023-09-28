@@ -21,6 +21,13 @@
     
     <script>
     import words_1 from '../Data/Kanji/N5/1.json'
+    import words_2 from '../Data/Kanji/N5/2.json'
+    import words_3 from '../Data/Kanji/N5/3.json'
+    import words_4 from '../Data/Kanji/N5/4.json'
+    import words_5 from '../Data/Kanji/N5/5.json'
+    import words_6 from '../Data/Kanji/N5/6.json'
+    import words_7 from '../Data/Kanji/N5/7.json'
+    import words_8 from '../Data/Kanji/N5/8.json'
     export default {
         data() {
             return {
@@ -36,7 +43,8 @@
             };
         },
         created() {
-            this.words = words_1;
+            // this.words = words_1;
+            this.words = this.words.concat(words_1, words_2, words_3, words_4, words_5, words_6, words_7, words_8)
         },
         methods: {
             focusOnRomanjiInput() {
