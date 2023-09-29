@@ -1,0 +1,23 @@
+[
+    { "kanji": "上手", "chinese": "上: thượng", "romanji": "jouzu", "vietnamese": "giỏi" },
+    { "kanji": "屋上", "chinese": "上: thượng", "romanji": "okujou", "vietnamese": "sân thượng" },
+    { "kanji": "上", "chinese": "上: thượng", "romanji": "ue", "vietnamese": "bên trên" },
+    { "kanji": "年上", "chinese": "上: thượng", "romanji": "toshiue", "vietnamese": "người trên" },
+    { "kanji": "上げる", "chinese": "上: thượng", "romanji": "ageru", "vietnamese": "giơ tay" },
+    { "kanji": "地下鉄", "chinese": "下: hạ", "romanji": "chikatetsu", "vietnamese": "tàu điện ngầm" },
+    { "kanji": "地下", "chinese": "下: hạ", "romanji": "chika", "vietnamese": "tầng hầm" },
+    { "kanji": "下", "chinese": "下: hạ", "romanji": "shita", "vietnamese": "bên dưới" },
+    { "kanji": "下着", "chinese": "下: hạ", "romanji": "shitagi", "vietnamese": "đồ lót" },
+    { "kanji": "下手", "chinese": "下: hạ", "romanji": "heta", "vietnamese": "kém" },
+    { "kanji": "右", "chinese": "右: hữu", "romanji": "migi", "vietnamese": "bên phải" },
+    { "kanji": "右手", "chinese": "右: hữu", "romanji": "migite", "vietnamese": "tay phải" },
+    { "kanji": "右側", "chinese": "右: hữu", "romanji": "migigawa", "vietnamese": "phía bên phải" },
+    { "kanji": "左", "chinese": "左: tả", "romanji": "hidari", "vietnamese": "bên trái" },
+    { "kanji": "左手", "chinese": "左: tả", "romanji": "hidarite", "vietnamese": "tay trái" },
+    { "kanji": "左側", "chinese": "左: tả", "romanji": "hidarigawa", "vietnamese": "phía bên trái" },
+    { "kanji": "中学生", "chinese": "中: trung", "romanji": "chuugakusei", "vietnamese": "học sinh cấp 2" },
+    { "kanji": "中国", "chinese": "中: trung", "romanji": "chuugoku", "vietnamese": "trung quốc" },
+    { "kanji": "一日中", "chinese": "中: trung", "romanji": "ichinichijuu", "vietnamese": "cả ngày" },
+    { "kanji": "世界中", "chinese": "中: trung", "romanji": "sekaijuu", "vietnamese": "khắp thế giới" },
+    { "kanji": "中", "chinese": "中: trung", "romanji": "naka", "vietnamese": "bên trong" }
+]

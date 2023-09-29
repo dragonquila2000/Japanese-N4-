@@ -1,0 +1,18 @@
+[
+    { "kanji": "祖父", "chinese": "父: phụ", "romanji": "sofu", "vietnamese": "ông" },
+    { "kanji": "父", "chinese": "父: phụ", "romanji": "chichi", "vietnamese": "cha" },
+    { "kanji": "お父さん", "chinese": "父: phụ", "romanji": "otousan", "vietnamese": "cha" },
+    { "kanji": "祖母", "chinese": "母: mẫu", "romanji": "sobo", "vietnamese": "bà" },
+    { "kanji": "母", "chinese": "母: mẫu", "romanji": "haha", "vietnamese": "mẹ" },
+    { "kanji": "お母さん", "chinese": "母: mẫu", "romanji": "okaasan", "vietnamese": "mẹ" },
+    { "kanji": "お菓子", "chinese": "子: tử", "romanji": "okashi", "vietnamese": "kẹo" },
+    { "kanji": "子供", "chinese": "子: tử", "romanji": "kodomo", "vietnamese": "trẻ con" },
+    { "kanji": "女の子", "chinese": "子: tử", "romanji": "onnanoko", "vietnamese": "con gái" },
+    { "kanji": "男の子", "chinese": "子: tử", "romanji": "otokonoko", "vietnamese": "con trai" },
+    { "kanji": "彼女", "chinese": "女: nữ", "romanji": "kanojo", "vietnamese": "bạn gái" },
+    { "kanji": "女性", "chinese": "女: nữ", "romanji": "josei", "vietnamese": "nữ" },
+    { "kanji": "女の人", "chinese": "女: nữ", "romanji": "onnanohito", "vietnamese": "phụ nữ" },
+    { "kanji": "長男", "chinese": "男: nam", "romanji": "chounan", "vietnamese": "con cả" },
+    { "kanji": "男性", "chinese": "男: nam", "romanji": "dansei", "vietnamese": "nam" },
+    { "kanji": "男の人", "chinese": "男: nam", "romanji": "otokonohito", "vietnamese": "đàn ông" }
+]

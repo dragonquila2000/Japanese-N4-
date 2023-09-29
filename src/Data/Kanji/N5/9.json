@@ -1,0 +1,23 @@
+[
+    { "kanji": "旅行", "chinese": "行: hành", "romanji": "ryouko", "vietnamese": "du lịch" },
+    { "kanji": "銀行", "chinese": "行: hành", "romanji": "ginkou", "vietnamese": "ngân hàng" },
+    { "kanji": "行きます", "chinese": "行: hành", "romanji": "ikimasu", "vietnamese": "đi" },
+    { "kanji": "行います", "chinese": "行: hành", "romanji": "okonaimasu", "vietnamese": "tổ chức" },
+    { "kanji": "来週", "chinese": "来: lai", "romanji": "raishuu", "vietnamese": "tuần tới" },
+    { "kanji": "来月", "chinese": "来: lai", "romanji": "raigetsu", "vietnamese": "tháng tới" },
+    { "kanji": "来年", "chinese": "来: lai", "romanji": "rainen", "vietnamese": "năm tới" },
+    { "kanji": "来ます", "chinese": "来: lai", "romanji": "kimasu", "vietnamese": "đến" },
+    { "kanji": "帰国", "chinese": "帰: quy", "romanji": "kikoku", "vietnamese": "về nước" },
+    { "kanji": "帰ります", "chinese": "帰: quy", "romanji": "kaerimasu", "vietnamese": "trở về" },
+    { "kanji": "お帰り", "chinese": "帰: quy", "romanji": "okaeri", "vietnamese": "về rồi" },
+    { "kanji": "中国", "chinese": "国: quốc", "romanji": "chuugoku", "vietnamese": "trung quốc" },
+    { "kanji": "帰国", "chinese": "国: quốc", "romanji": "kikoku", "vietnamese": "về nước" },
+    { "kanji": "国際", "chinese": "国: quốc", "romanji": "kokusai", "vietnamese": "quốc tế" },
+    { "kanji": "国", "chinese": "国: quốc", "romanji": "kuni", "vietnamese": "quốc gia" },
+    { "kanji": "日本人", "chinese": "人: nhân", "romanji": "nihonjin", "vietnamese": "người nhật" },
+    { "kanji": "人口", "chinese": "人: nhân", "romanji": "jinkou", "vietnamese": "dân số" },
+    { "kanji": "主人", "chinese": "人: nhân", "romanji": "shujin", "vietnamese": "chồng" },
+    { "kanji": "三人", "chinese": "人: nhân", "romanji": "sannnin", "vietnamese": "3 người" },
+    { "kanji": "人", "chinese": "人: nhân", "romanji": "hito", "vietnamese": "người" },
+    { "kanji": "一人", "chinese": "人: nhân", "romanji": "hitori", "vietnamese": "1 người" }
+]
