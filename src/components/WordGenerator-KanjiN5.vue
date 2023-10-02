@@ -49,6 +49,24 @@ import words_5 from "../Data/Kanji/N5/5.json";
 import words_6 from "../Data/Kanji/N5/6.json";
 import words_7 from "../Data/Kanji/N5/7.json";
 import words_8 from "../Data/Kanji/N5/8.json";
+import words_9 from "../Data/Kanji/N5/9.json";
+import words_10 from "../Data/Kanji/N5/10.json";
+import words_11 from "../Data/Kanji/N5/11.json";
+import words_12 from "../Data/Kanji/N5/12.json";
+import words_13 from "../Data/Kanji/N5/13.json";
+import words_14 from "../Data/Kanji/N5/14.json";
+import words_15 from "../Data/Kanji/N5/15.json";
+import words_16 from "../Data/Kanji/N5/16.json";
+import words_17 from "../Data/Kanji/N5/17.json";
+import words_18 from "../Data/Kanji/N5/18.json";
+import words_19 from "../Data/Kanji/N5/19.json";
+import words_20 from "../Data/Kanji/N5/20.json";
+import words_21 from "../Data/Kanji/N5/21.json";
+import words_22 from "../Data/Kanji/N5/22.json";
+import words_23 from "../Data/Kanji/N5/23.json";
+import words_24 from "../Data/Kanji/N5/24.json";
+import words_25 from "../Data/Kanji/N5/25.json";
+import words_26 from "../Data/Kanji/N5/26.json";
 export default {
   data() {
     return {
@@ -72,7 +90,25 @@ export default {
       words_5,
       words_6,
       words_7,
-      words_8
+      words_8,
+      words_9,
+      words_10,
+      words_11,
+      words_12,
+      words_13,
+      words_14,
+      words_15,
+      words_16,
+      words_17,
+      words_18,
+      words_19,
+      words_20,
+      words_21,
+      words_22,
+      words_23,
+      words_24,
+      words_25,
+      words_26
     );
   },
   methods: {
