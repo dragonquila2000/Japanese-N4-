@@ -1,3 +1,12 @@
 [
-    { "kanji": "", "chinese": "", "romanji": "", "vietnamese": "" },
+    { "kanji": "毎朝", "chinese": "毎: mỗi", "romanji": "maiasa", "vietnamese": "hằng sáng" },
+    { "kanji": "毎日", "chinese": "毎: mỗi", "romanji": "mainichi", "vietnamese": "hằng ngày" },
+    { "kanji": "毎週", "chinese": "毎: mỗi", "romanji": "maishuu", "vietnamese": "hằng tuần" },
+    { "kanji": "一回", "chinese": "回: hồi", "romanji": "ikkai", "vietnamese": "1 lần" },
+    { "kanji": "回す", "chinese": "回: hồi", "romanji": "mawasu", "vietnamese": "vặn" },
+    { "kanji": "午前", "chinese": "午: ngọ", "romanji": "gozen", "vietnamese": "bữa sáng" },
+    { "kanji": "午後", "chinese": "午: ngọ", "romanji": "gogo", "vietnamese": "bữa tối" },
+    { "kanji": "同じ", "chinese": "同: đồng", "romanji": "onaji", "vietnamese": "giống nhau" },
+    { "kanji": "立つ", "chinese": "立: lập", "romanji": "tatsu", "vietnamese": "đứng" },
+    { "kanji": "立てる", "chinese": "立: lập", "romanji": "tateru", "vietnamese": "lập" }
 ]

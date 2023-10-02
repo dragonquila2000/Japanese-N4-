@@ -1,3 +1,15 @@
 [
-    { "kanji": "", "chinese": "", "romanji": "", "vietnamese": "" },
+    { "kanji": "会社", "chinese": "会: hội", "romanji": "kaisha", "vietnamese": "công ty" },
+    { "kanji": "会議", "chinese": "会: hội", "romanji": "kaigi", "vietnamese": "cuộc họp" },
+    { "kanji": "会う", "chinese": "会: hội", "romanji": "au", "vietnamese": "gặp" },
+    { "kanji": "会社", "chinese": "社: xá", "romanji": "kaisha", "vietnamese": "công ty" },
+    { "kanji": "社長", "chinese": "社: xá", "romanji": "kaichou", "vietnamese": "giám đốc" },
+    { "kanji": "神社", "chinese": "社: xá", "romanji": "jinja", "vietnamese": "đền chùa" },
+    { "kanji": "病院", "chinese": "病: bệnh", "romanji": "byouin", "vietnamese": "bệnh viện" },
+    { "kanji": "病気", "chinese": "病: bệnh", "romanji": "byouki", "vietnamese": "bệnh" },
+    { "kanji": "病院", "chinese": "病: bệnh", "romanji": "byouin", "vietnamese": "bệnh viện" },
+    { "kanji": "入院する", "chinese": "院: viện", "romanji": "nyuuinsuru", "vietnamese": "nhập viện" },
+    { "kanji": "退院する", "chinese": "院: viện", "romanji": "taiinsuru", "vietnamese": "ra viện" },
+    { "kanji": "喫茶店", "chinese": "店: điếm", "romanji": "kissaten", "vietnamese": "quán cà phê" },
+    { "kanji": "店", "chinese": "店: điếm", "romanji": "mise", "vietnamese": "cửa hàng" }
 ]
