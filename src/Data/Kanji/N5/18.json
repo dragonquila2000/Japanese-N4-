@@ -1,0 +1,16 @@
+[
+    { "kanji": "意見", "chinese": "見: kiến", "romanji": "iken", "vietnamese": "ý kiến" },
+    { "kanji": "見ます", "chinese": "見: kiến", "romanji": "mimasu", "vietnamese": "nhìn" },
+    { "kanji": "花見", "chinese": "見: kiến", "romanji": "hanami", "vietnamese": "ngắm hoa" },
+    { "kanji": "新聞", "chinese": "聞: văn", "romanji": "shinbun", "vietnamese": "tờ báo" },
+    { "kanji": "聞きます", "chinese": "聞: văn", "romanji": "kikimasu", "vietnamese": "nghe" },
+    { "kanji": "図書館", "chinese": "書: thư", "romanji": "toshokan", "vietnamese": "thư viện" },
+    { "kanji": "書きます", "chinese": "書: thư", "romanji": "kakimasu", "vietnamese": "viết" },
+    { "kanji": "葉書", "chinese": "書: thư", "romanji": "hagaki", "vietnamese": "bưu thiếp" },
+    { "kanji": "食堂", "chinese": "食: thực", "romanji": "shokudou", "vietnamese": "nhà ăn" },
+    { "kanji": "和食", "chinese": "食: thực", "romanji": "washoku", "vietnamese": "đồ ăn nhật" },
+    { "kanji": "食べ物", "chinese": "食: thực", "romanji": "tabemono", "vietnamese": "đồ ăn" },
+    { "kanji": "食べます", "chinese": "食: thực", "romanji": "tabemasu", "vietnamese": "ăn" },
+    { "kanji": "飲みます", "chinese": "飲: ẩm", "romanji": "nomimasu", "vietnamese": "uống" },
+    { "kanji": "飲み物", "chinese": "飲: ẩm", "romanji": "nomimono", "vietnamese": "đồ uống" }
+]

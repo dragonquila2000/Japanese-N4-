@@ -1,0 +1,14 @@
+[
+    { "kanji": "米", "chinese": "米: mễ", "romanji": "kome", "vietnamese": "gạo" },
+    { "kanji": "肉", "chinese": "肉: nhục", "romanji": "niku", "vietnamese": "thịt" },
+    { "kanji": "鳥肉", "chinese": "肉: nhục", "romanji": "toriniku", "vietnamese": "thịt gà" },
+    { "kanji": "お茶", "chinese": "茶: trà", "romanji": "ocha", "vietnamese": "trà" },
+    { "kanji": "茶道", "chinese": "茶: trà", "romanji": "sadou", "vietnamese": "trà đạo" },
+    { "kanji": "喫茶店", "chinese": "茶: trà", "romanji": "kissaten", "vietnamese": "quán cà phê" },
+    { "kanji": "動物", "chinese": "物: vật", "romanji": "doubutsu", "vietnamese": "động vật" },
+    { "kanji": "荷物", "chinese": "物: vật", "romanji": "nimotsu", "vietnamese": "hành lý" },
+    { "kanji": "食べ物", "chinese": "物: vật", "romanji": "tabemono", "vietnamese": "thức ăn" },
+    { "kanji": "着物", "chinese": "物: vật", "romanji": "kimono", "vietnamese": "kimono" },
+    { "kanji": "好き", "chinese": "好: hảo", "romanji": "suki", "vietnamese": "thích" },
+    { "kanji": "大好き", "chinese": "好: hảo", "romanji": "daisuki", "vietnamese": "rất thích" }
+]

@@ -1,0 +1,16 @@
+[
+    { "kanji": "花瓶", "chinese": "花: hoa", "romanji": "kabin", "vietnamese": "lọ hoa" },
+    { "kanji": "花", "chinese": "花: hoa", "romanji": "hana", "vietnamese": "hoa" },
+    { "kanji": "花火", "chinese": "花: hoa", "romanji": "hanabi", "vietnamese": "pháo hoa" },
+    { "kanji": "お花見", "chinese": "花: hoa", "romanji": "ohanami", "vietnamese": "lễ hội ngắm hoa" },
+    { "kanji": "生け花", "chinese": "花: hoa", "romanji": "ikebana", "vietnamese": "căm shoa" },
+    { "kanji": "雨", "chinese": "雨: vũ", "romanji": "ame", "vietnamese": "mưa" },
+    { "kanji": "大雨", "chinese": "雨: vũ", "romanji": "ooame", "vietnamese": "mưa to" },
+    { "kanji": "雨戸", "chinese": "雨: vũ", "romanji": "amado", "vietnamese": "cửa che mưa" },
+    { "kanji": "天気", "chinese": "天: thiên", "romanji": "tenki", "vietnamese": "thời tiết" },
+    { "kanji": "天ぷら", "chinese": "天: thiên", "romanji": "tenpura", "vietnamese": "đồ chiên" },
+    { "kanji": "会社員", "chinese": "員: viên", "romanji": "kaishain", "vietnamese": "nhân viên công ty" },
+    { "kanji": "銀行員", "chinese": "員: viên", "romanji": "ginkouin", "vietnamese": "nhân viên ngân hàng" },
+    { "kanji": "研究者", "chinese": "者: giả", "romanji": "kenkyuusha", "vietnamese": "nhà nghiên cứu" },
+    { "kanji": "科学者", "chinese": "者: giả", "romanji": "kagakusha", "vietnamese": "nhà khoa học" }
+]

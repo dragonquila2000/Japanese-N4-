@@ -1,0 +1,15 @@
+[
+    { "kanji": "富士山", "chinese": "山: sơn", "romanji": "fujisan", "vietnamese": "núi phú sĩ" },
+    { "kanji": "火山", "chinese": "山: sơn", "romanji": "kazan", "vietnamese": "núi lửa" },
+    { "kanji": "山", "chinese": "山: sơn", "romanji": "yama", "vietnamese": "núi" },
+    { "kanji": "山田さん", "chinese": "山: sơn", "romanji": "yamadasan", "vietnamese": "anh yamada" },
+    { "kanji": "川", "chinese": "川: xuyên", "romanji": "kawa", "vietnamese": "sông" },
+    { "kanji": "田舎", "chinese": "田: điền", "romanji": "inaka", "vietnamese": "nông thôn" },
+    { "kanji": "田中さん", "chinese": "田: điền", "romanji": "tanakasan", "vietnamese": "anh tanaka" },
+    { "kanji": "羽田", "chinese": "田: điền", "romanji": "haneda", "vietnamese": "sân bay haneda" },
+    { "kanji": "海外", "chinese": "海: hải", "romanji": "kaigai", "vietnamese": "nước ngoài" },
+    { "kanji": "海", "chinese": "海: hải", "romanji": "umi", "vietnamese": "biển" },
+    { "kanji": "空気", "chinese": "空: phong", "romanji": "kouki", "vietnamese": "không khí" },
+    { "kanji": "空きます", "chinese": "空: phong", "romanji": "akimasu/sukimasu", "vietnamese": "trống vắng" },
+    { "kanji": "空", "chinese": "空: phong", "romanji": "sora", "vietnamese": "bầu trời" }
+]

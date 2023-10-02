@@ -1,0 +1,15 @@
+[
+    { "kanji": "新聞", "chinese": "新: tân", "romanji": "shinbun", "vietnamese": "báo" },
+    { "kanji": "新しい", "chinese": "新: tân", "romanji": "atarashii", "vietnamese": "mới" },
+    { "kanji": "中古", "chinese": "古: cổ", "romanji": "chuuko", "vietnamese": "đồ cũ" },
+    { "kanji": "古い", "chinese": "古: cổ", "romanji": "furui", "vietnamese": "cũ" },
+    { "kanji": "少々", "chinese": "少: thiểu", "romanji": "shoushou", "vietnamese": "một lát" },
+    { "kanji": "少し", "chinese": "少: thiểu", "romanji": "sukoshi", "vietnamese": "một ít" },
+    { "kanji": "少ない", "chinese": "少: thiểu", "romanji": "sukunai", "vietnamese": "ít" },
+    { "kanji": "多少", "chinese": "多: đa", "romanji": "tashou", "vietnamese": "ít nhiều" },
+    { "kanji": "多分", "chinese": "多: đa", "romanji": "tabun", "vietnamese": "phần lớn" },
+    { "kanji": "多い", "chinese": "多: đa", "romanji": "ooi", "vietnamese": "nhiều" },
+    { "kanji": "説明", "chinese": "明: minh", "romanji": "setsumei", "vietnamese": "thuyết minh" },
+    { "kanji": "明るい", "chinese": "明: minh", "romanji": "akarui", "vietnamese": "sáng sủa" },
+    { "kanji": "明日", "chinese": "明: minh", "romanji": "ashita", "vietnamese": "ngày mai" }
+]

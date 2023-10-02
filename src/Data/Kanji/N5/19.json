@@ -1,0 +1,17 @@
+[
+    { "kanji": "買う", "chinese": "買: mãi", "romanji": "kau", "vietnamese": "mua" },
+    { "kanji": "買い物", "chinese": "買: mãi", "romanji": "kaimono", "vietnamese": "đồ mua được" },
+    { "kanji": "方言", "chinese": "言: ngôn", "romanji": "hougen", "vietnamese": "tiếng địa phương" },
+    { "kanji": "言う", "chinese": "言: ngôn", "romanji": "iu", "vietnamese": "nói" },
+    { "kanji": "言葉", "chinese": "言: ngôn", "romanji": "kotoba", "vietnamese": "từ vựng" },
+    { "kanji": "読者", "chinese": "読: độc", "romanji": "dokusha", "vietnamese": "độc giả" },
+    { "kanji": "読書", "chinese": "読: độc", "romanji": "dokusho", "vietnamese": "đọc sách" },
+    { "kanji": "読む", "chinese": "読: độc", "romanji": "yomu", "vietnamese": "đọc" },
+    { "kanji": "会話", "chinese": "話: thoại", "romanji": "kaiwa", "vietnamese": "hội thoại" },
+    { "kanji": "電話", "chinese": "話: thoại", "romanji": "denwa", "vietnamese": "điện thoại" },
+    { "kanji": "話す", "chinese": "話: thoại", "romanji": "hanasu", "vietnamese": "nói chuyện" },
+    { "kanji": "話", "chinese": "話: thoại", "romanji": "hanashi", "vietnamese": "câu chuyện" },
+    { "kanji": "休日", "chinese": "休: hưu", "romanji": "kyuujitsu", "vietnamese": "ngày nghỉ" },
+    { "kanji": "休む", "chinese": "休: hưu", "romanji": "yasumu", "vietnamese": "nghỉ ngơi" },
+    { "kanji": "夏休み", "chinese": "休: hưu", "romanji": "natsuyasumi", "vietnamese": "kỳ nghỉ hè" }
+]
